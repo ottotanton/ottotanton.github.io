@@ -167,7 +167,7 @@ h2{
 }
 
 .good{
-  background-image:  url('../../medan/goodfood.jpg');
+  background-image:  url(../../medan/goodfood.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
