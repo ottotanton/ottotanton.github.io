@@ -28,7 +28,7 @@ function myFunction() {
 }
 
 $(document).ready(function () {
-    $('div.hide').fadeIn(2500).removeClass('hide');
+    $('div.hide').fadeIn(3000).removeClass('hide');
 });
 
 
