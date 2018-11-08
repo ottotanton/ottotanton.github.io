@@ -52,6 +52,8 @@ var radialObj = radialIndicator('#clock', {
 setInterval(function () {
     radialObj.value(new Date().getSeconds() + 1);
 }, 1000);
+
+$('.fireworks').fireworks();
 /*!
  * Lightbox v2.10.0
  * by Lokesh Dhakar
